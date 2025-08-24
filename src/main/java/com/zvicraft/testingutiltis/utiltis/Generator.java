@@ -1,4 +1,4 @@
-package com.zvicraft.testingutiltis;
+package com.zvicraft.testingutiltis.utiltis;
 
 import java.util.Random;
 

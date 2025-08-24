@@ -1,4 +1,4 @@
-package com.zvicraft.testingutiltis;
+package com.zvicraft.testingutiltis.commands;
 
 
 import com.mojang.authlib.GameProfile;

@@ -1,4 +1,4 @@
-package com.zvicraft.testingutiltis;
+package com.zvicraft.testingutiltis.commands;
 import com.mojang.authlib.properties.Property;
 import com.mojang.authlib.properties.PropertyMap;
 import com.mojang.authlib.GameProfile;
